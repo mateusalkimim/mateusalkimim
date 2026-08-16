@@ -17,10 +17,11 @@ and geometry that verifies what the eye believes.
 - **[lol-draft-assistant](https://github.com/mateusalkimim/lol-draft-assistant)** —
   strictly read-only draft & build advisor for League of Legends: local statistics,
   confidence intervals, no raw data redistribution. MIT.
-- **Coming soon** — the geometric-metrology toolkit behind my matte painting
-  pipeline: single-view metrology (Criminisi, Reid & Zisserman, 2000) verifying
-  AI-assisted paintings against ground truth — pre-registered measurements,
-  blind judgment, receipts for every claim.
+- **[geometry-verifies](https://github.com/mateusalkimim/geometry-verifies)** —
+  the geometric-metrology toolkit behind my matte painting pipeline:
+  single-view metrology (Criminisi, Reid & Zisserman, 2000) verifying
+  AI-assisted paintings against camera ground truth — pre-registered
+  measurements, blind judgment, receipts for every claim. MIT + CC BY.
 
 ## What I build at work
 

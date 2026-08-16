@@ -45,6 +45,13 @@ declared.
 production: projective geometry, linear algebra and optics are the tools I use
 daily in compositing, so I'm learning them at the root.
 
+## Teaching
+
+- **[Nuke: Composição e VFX](https://unhideschool.com/cursos/view-all/6621/nuke-composicao-e-vfx)** —
+  a recorded course at Unhide School, where I am the author and instructor.
+  Teaching is the other half of measuring: the same instinct behind
+  relativity-paradox-lab, just aimed at my own craft.
+
 ## Find me
 
 [mateusalkimim.com](https://mateusalkimim.com) ·

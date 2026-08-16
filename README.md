@@ -45,7 +45,7 @@ breakdowns stay under NDA):
   classic), theatrical release; **my first on-screen film credit** — via [Bóson Post](https://www.bosonpost.com.br/) ·
   ![Globoplay](https://img.shields.io/badge/Globoplay-fb0234)
 - **[DNA do Crime](https://pt.wikipedia.org/wiki/DNA_do_Crime)** (2023–) —
-  action/heist series, #1 on Netflix in 71 countries in its first season — via [Zombie Studio](https://zombiestudio.com.br/) ·
+  action/heist series, #1 on Netflix in 71 countries in its first season — freelance ·
   ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)
 - **[A Magia de Aruna](https://en.wikipedia.org/wiki/Aruna%27s_Magic)** (2023) —
   fantasy series, Disney+ Brazilian original — via [Miracle VFX](https://miraclevfx.com/) ·

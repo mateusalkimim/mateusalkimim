@@ -34,6 +34,17 @@ Montes Claros. Alongside shot work, I build pipeline tooling in production use
   no external APIs, nothing leaves the machine;
 - **procedural project-topology builders** for pipeline folder structures.
 
+## Selected credits
+
+Released productions I worked on as a compositor (titles are public credits;
+shots and breakdowns stay under NDA):
+
+- **O Gênio do Crime** — feature film, theatrical release; my first
+  on-screen film credit · ![Globoplay](https://img.shields.io/badge/Globoplay-fb0234)
+- **DNA do Crime** — series · ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)
+- **A Magia de Aruna** · ![Disney+](https://img.shields.io/badge/Disney%2B-113CCF)
+- **Amor da Minha Vida** — series · ![Disney+](https://img.shields.io/badge/Disney%2B-113CCF)
+
 ## What I'm making and studying
 
 **Guariba** — an original animated series I'm writing, directing and producing,

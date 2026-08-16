@@ -36,21 +36,22 @@ Montes Claros. Alongside shot work, I build pipeline tooling in production use
 
 ## Selected credits
 
-Released productions I worked on as a compositor (titles are public credits;
-shots and breakdowns stay under NDA):
+Released productions I worked on as a compositor, and the studio each
+delivery went through (titles and studios are public credits; shots and
+breakdowns stay under NDA):
 
 - **[O Gênio do Crime](https://en.wikipedia.org/wiki/O_G%C3%AAnio_do_Crime_(film))** (2026) —
   feature film (Boutique Filmes/Globo Filmes, from João Carlos Marinho's 1969
-  classic), theatrical release; **my first on-screen film credit** ·
+  classic), theatrical release; **my first on-screen film credit** — via [Bóson Post](https://www.bosonpost.com.br/) ·
   ![Globoplay](https://img.shields.io/badge/Globoplay-fb0234)
 - **[DNA do Crime](https://pt.wikipedia.org/wiki/DNA_do_Crime)** (2023–) —
-  action/heist series, #1 on Netflix in 71 countries in its first season ·
+  action/heist series, #1 on Netflix in 71 countries in its first season — via [Zombie Studio](https://zombiestudio.com.br/) ·
   ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)
 - **[A Magia de Aruna](https://en.wikipedia.org/wiki/Aruna%27s_Magic)** (2023) —
-  fantasy series, Disney+ Brazilian original ·
+  fantasy series, Disney+ Brazilian original — via [Miracle VFX](https://miraclevfx.com/) ·
   ![Disney+](https://img.shields.io/badge/Disney%2B-113CCF)
 - **[Amor da Minha Vida](https://pt.wikipedia.org/wiki/Amor_da_Minha_Vida_(s%C3%A9rie_de_televis%C3%A3o))** (2024–) —
-  romantic comedy series, Disney+'s biggest Brazilian series debut of 2024 ·
+  romantic comedy series, Disney+'s biggest Brazilian series debut of 2024 — via [The End](https://theend.tv/) ·
   ![Disney+](https://img.shields.io/badge/Disney%2B-113CCF)
 
 ## What I'm making and studying

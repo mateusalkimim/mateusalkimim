@@ -38,21 +38,24 @@ Montes Claros. Alongside shot work, I build pipeline tooling in production use
 
 Released productions I worked on as a compositor, and the studio each
 delivery went through (titles and studios are public credits; shots and
-breakdowns stay under NDA):
+breakdowns stay under NDA) — most recent first:
 
 - **[O Gênio do Crime](https://www.imdb.com/title/tt39444949/)** (2026) —
   feature film (Boutique Filmes/Globo Filmes, from João Carlos Marinho's 1969
   classic), theatrical release; **my first on-screen film credit** — via [Bóson Post](https://www.bosonpost.com.br/) ·
   ![Globoplay](https://img.shields.io/badge/Globoplay-fb0234)
-- **[DNA do Crime](https://www.imdb.com/title/tt22459586/)** (2023–) —
-  action/heist series, #1 on Netflix in 71 countries in its first season — freelance ·
-  ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)
-- **[A Magia de Aruna](https://www.imdb.com/title/tt16225592/)** (2023) —
-  fantasy series, Disney+ Brazilian original — via [Miracle VFX](https://miraclevfx.com/) ·
+- **[Passinho: O Ritmo dos Sonhos](https://www.imdb.com/title/tt30699615/)** (2025) —
+  dance series, Disney+ Brazilian original; my first project with Bóson Post — via [Bóson Post](https://www.bosonpost.com.br/) ·
   ![Disney+](https://img.shields.io/badge/Disney%2B-113CCF)
 - **[Amor da Minha Vida](https://www.imdb.com/title/tt27517632/)** (2024–) —
   romantic comedy series, Disney+'s biggest Brazilian series debut of 2024 — via [The End](https://theend.tv/) ·
   ![Disney+](https://img.shields.io/badge/Disney%2B-113CCF)
+- **[A Magia de Aruna](https://www.imdb.com/title/tt16225592/)** (2023) —
+  fantasy series, Disney+ Brazilian original — via [Miracle VFX](https://miraclevfx.com/) ·
+  ![Disney+](https://img.shields.io/badge/Disney%2B-113CCF)
+- **[DNA do Crime](https://www.imdb.com/title/tt22459586/)** (2023–) —
+  action/heist series, #1 on Netflix in 71 countries in its first season — freelance ·
+  ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)
 
 ## What I'm making and studying
 

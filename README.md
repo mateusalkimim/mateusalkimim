@@ -14,6 +14,13 @@ and geometry that verifies what the eye believes.
   Alencar et al. (2023); grown out of our research group's Twin Paradox work
   presented at the III International Congress on Education and Innovation
   (Unimontes, 2025). GPLv3.
+- **[math-prerequisite-map](https://github.com/mateusalkimim/math-prerequisite-map)** —
+  an interactive prerequisite map of undergraduate mathematics
+  ([live](https://mateusalkimim.github.io/math-prerequisite-map/)): 39 subjects,
+  56 dependencies, and **no edge without a warrant** — each arrow declares which
+  book it came from, and which class of evidence it rests on. The layout is
+  measured, not drawn: crossings cut from 131 to 11, counted in the page's own
+  footer. Published as a proposal, in Portuguese. MIT + CC BY.
 - **[lol-draft-assistant](https://github.com/mateusalkimim/lol-draft-assistant)** —
   strictly read-only draft & build advisor for League of Legends: local statistics,
   confidence intervals, no raw data redistribution. MIT.

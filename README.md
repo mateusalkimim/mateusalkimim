@@ -69,6 +69,35 @@ declared.
 production: projective geometry, linear algebra and optics are the tools I use
 daily in compositing, so I'm learning them at the root.
 
+## Six biomes, one surface
+
+Six Möbius strips, each made of the material of a Brazilian biome, each holding
+a bird that lives there. The surface is the same in all six; what changes is the
+matter, and the matter belongs to the place. Research of my own, unpaid, ongoing.
+
+| | | |
+|:--:|:--:|:--:|
+| ![Amazônia](media/mobius-amazonia.jpg) | ![Cerrado](media/mobius-cerrado.jpg) | ![Caatinga](media/mobius-caatinga.jpg) |
+| **Amazônia** — arumã palm fiber · scarlet macaw | **Cerrado** — golden capim-dourado grass · red-legged seriema | **Caatinga** — vegetable-tanned leather · caatinga parakeet |
+| ![Mata Atlântica](media/mobius-mata-atlantica.jpg) | ![Pampa](media/mobius-pampa.jpg) | ![Pantanal](media/mobius-pantanal.jpg) |
+| **Mata Atlântica** — vine and taboa reed · toco toucan | **Pampa** — raw wool and leather guasca · rufous hornero | **Pantanal** — carandá palm straw · jabiru stork |
+
+The hard problem was not generating the images. It was **scale**. In the first
+versions the toucan came out nearly the size of a fallen leaf, and the jabiru —
+taller than a seated person — looked smaller than the litter at its feet. The
+ground was being painted at the same apparent scale every time, while the
+species run from a 13 cm hornero to a 130 cm jabiru: ten times between the ends.
+
+The fix was to treat the bird as the ruler. It is the only object in the scene
+whose real size is known, because the species is declared; fix its height in the
+image and every other scale follows by division. What surprised me is that the
+correction did not come from swapping the reference photographs — it came from
+describing better. *"Every fallen leaf is shorter than the macaw's beak"* works
+where *"small leaves"* fails.
+
+Generated images, declared as such — [credits and CC BY attribution](media/CREDITS.md)
+for the ground reference photographs.
+
 ## Teaching
 
 - **[Nuke: Composição e VFX](https://unhideschool.com/cursos/view-all/6621/nuke-composicao-e-vfx)** —

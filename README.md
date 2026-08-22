@@ -1,3 +1,5 @@
+![Mateus Alkimim — VFX compositor and pipeline TD, physics undergraduate. Research in the geometry of images.](media/banner.jpg)
+
 # Mateus Alkimim
 
 **Visual Effects Compositor · Pipeline TD · Physics undergraduate** — Montes Claros, Brazil

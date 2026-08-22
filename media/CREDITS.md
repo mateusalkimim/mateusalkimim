@@ -24,6 +24,14 @@ attribution** — which is what this page discharges.
 | Pampa | *Dyckia remotiflora* | rafa perazzolo | CC BY | [iNaturalist 329617487](https://www.inaturalist.org/observations/329617487) |
 | Pantanal | *Cedrela fissilis* | Thomaz Ricardo Favreto Sinani | CC BY | [iNaturalist 206185629](https://www.inaturalist.org/observations/206185629) |
 
+## The banner
+
+The header image of this profile is built from the **Pampa** plate — the one
+that set the scale target for all six, kept in its first version, untouched. It
+is therefore a derivative of the same ground reference, and the attribution
+above covers it: *Dyckia remotiflora*, rafa perazzolo, CC BY,
+[iNaturalist 329617487](https://www.inaturalist.org/observations/329617487).
+
 ## Species depicted
 
 Scarlet macaw (*Ara macao*) · red-legged seriema (*Cariama cristata*) · caatinga

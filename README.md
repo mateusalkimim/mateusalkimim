@@ -2,7 +2,7 @@
 
 # Mateus Alkimim
 
-**Visual Effects Compositor · Pipeline TD · Physics undergraduate** — Montes Claros, Brazil
+**Visual Effects Compositor · Physics undergraduate** — Montes Claros, Brazil
 
 I measure images. My work lives on the bridge between VFX production and
 mathematics: compositing that closes shots, pipeline tools that studios adopt,

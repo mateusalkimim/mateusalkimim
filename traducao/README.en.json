@@ -1,0 +1,205 @@
+{
+ "atualizado_em": "2026-08-27 15:47:15",
+ "blocos": {
+  "025bd01251": {
+   "en": "## O que estou fazendo e estudando",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "## What I'm making and studying",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "1183b6f537": {
+   "en": "Seis faixas de Möbius, cada uma feita do material de um bioma brasileiro, cada uma segurando  \num pássaro que vive lá. A superfície é a mesma em todas as seis; o que muda é a  \nmatéria, e a matéria pertence ao lugar. Pesquisa minha, não remunerada, em andamento.",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "Six Möbius strips, each made of the material of a Brazilian biome, each holding\na bird that lives there. The surface is the same in all six; what changes is the\nmatter, and the matter belongs to the place. Research of my own, unpaid, ongoing.",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "1189b86aed": {
+   "en": "Imagens geradas, declaradas como tal — [créditos e atribuição CC BY](media/CREDITS.md)  \npara as fotografias de referência do solo.",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "Generated images, declared as such — [credits and CC BY attribution](media/CREDITS.md)\nfor the ground reference photographs.",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "202d2e1237": {
+   "en": "## Encontre-me",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "## Find me",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "2a824465c5": {
+   "en": "## Ensino",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "## Teaching",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "4352e5a548": {
+   "en": "![Mateus Alkimim — Compositor VFX, pesquisador independente em visão computacional e geometria de imagem, estudante de física.](media/banner.jpg)",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "![Mateus Alkimim — VFX compositor, independent researcher in computer vision and image geometry, physics undergraduate.](media/banner.jpg)",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "43a2fd711e": {
+   "en": "## Seis biomas, uma superfície",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "## Six biomes, one surface",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "44107bda29": {
+   "en": "## O que eu construo no trabalho",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "## What I build at work",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "4b4b7b792a": {
+   "en": "A correção foi tratar o pássaro como a régua. É o único objeto na cena  \ncujo tamanho real é conhecido, porque a espécie é declarada; fixe sua altura na  \nimagem e todas as outras escalas seguem por divisão. O que me surpreendeu é que  \na correção não veio da troca das fotografias de referência — veio de uma melhor  \ndescrição. *\"Toda folha caída é mais curta que o bico do arara\"* funciona onde  \n*\"folhas pequenas\"* falha.",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "The fix was to treat the bird as the ruler. It is the only object in the scene\nwhose real size is known, because the species is declared; fix its height in the\nimage and every other scale follows by division. What surprised me is that the\ncorrection did not come from swapping the reference photographs — it came from\ndescribing better. *\"Every fallen leaf is shorter than the macaw's beak\"* works\nwhere *\"small leaves\"* fails.",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "5834341fc8": {
+   "en": "**Física na Unimontes (2025–2028)** — deliberadamente, em paralelo com  \nprodução: geometria projetiva, álgebra linear e óptica são as ferramentas que uso  \ndiariamente no compositing, então estou aprendendo-as na raiz.",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "**Physics at Unimontes (2025–2028)** — deliberately, in parallel with\nproduction: projective geometry, linear algebra and optics are the tools I use\ndaily in compositing, so I'm learning them at the root.",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "5c9f9c22fe": {
+   "en": "# Mateus Alkimim",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "# Mateus Alkimim",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "655c7c1715": {
+   "en": null,
+   "ja_en": true,
+   "orfao": false,
+   "pt": "[mateusalkimim.com](https://mateusalkimim.com) ·\n[LinkedIn](https://www.linkedin.com/in/mateus-alkimim-b93b80223)\n",
+   "tipo": "md"
+  },
+  "727c60fb9d": {
+   "en": null,
+   "ja_en": true,
+   "orfao": false,
+   "pt": "- **[O Gênio do Crime](https://www.imdb.com/title/tt39444949/)** (2026) —\n  feature film (Boutique Filmes/Globo Filmes, from João Carlos Marinho's 1969\n  classic), theatrical release; **my first on-screen film credit** — via [Bóson Post](https://www.bosonpost.com.br/) ·\n  ![Globoplay](https://img.shields.io/badge/Globoplay-fb0234)\n- **[Passinho: O Ritmo dos Sonhos](https://www.imdb.com/title/tt30699615/)** (2025) —\n  dance series, Disney+ Brazilian original; my first project with Bóson Post — via [Bóson Post](https://www.bosonpost.com.br/) ·\n  ![Disney+](https://img.shields.io/badge/Disney%2B-113CCF)\n- **[Amor da Minha Vida](https://www.imdb.com/title/tt27517632/)** (2024–) —\n  romantic comedy series, Disney+'s biggest Brazilian series debut of 2024 — via [The End](https://theend.tv/) ·\n  ![Disney+](https://img.shields.io/badge/Disney%2B-113CCF)\n- **[A Magia de Aruna](https://www.imdb.com/title/tt16225592/)** (2023) —\n  fantasy series, Disney+ Brazilian original — via [Miracle VFX](https://miraclevfx.com/) ·\n  ![Disney+](https://img.shields.io/badge/Disney%2B-113CCF)\n- **[DNA do Crime](https://www.imdb.com/title/tt22459586/)** (2023–) —\n  action/heist series, #1 on Netflix in 71 countries in its first season — freelance ·\n  ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)",
+   "tipo": "md"
+  },
+  "a7d8d08425": {
+   "en": "Mediço imagens. Meu trabalho vive na ponte entre a produção de VFX e  \nmatemática: compositing que fecha tomadas, ferramentas de pipeline que os estúdios  \nadotam, e geometria que verifica o que o olho acredita.",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "I measure images. My work lives on the bridge between VFX production and\nmathematics: compositing that closes shots, pipeline tools that studios adopt,\nand geometry that verifies what the eye believes.",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "a89026ed29": {
+   "en": "**Compositor de Efeitos Visuais · Pesquisador independente, visão computacional e  \ngeometria de imagem · Estudante de física** — Montes Claros, Brasil",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "**Visual Effects Compositor · Independent researcher, computer vision and\nimage geometry · Physics undergraduate** — Montes Claros, Brazil",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "aaa8b78223": {
+   "en": "## Comece aqui",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "## Start here",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "ad403214cf": {
+   "en": "Produções lançadas nas quais trabalhei como compositor, e o estúdio por qual  \ncada entrega passou (títulos e estúdios são créditos públicos; tomadas e  \ndesdobramentos permanecem sob NDA) — mais recente primeiro:",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "Released productions I worked on as a compositor, and the studio each\ndelivery went through (titles and studios are public credits; shots and\nbreakdowns stay under NDA) — most recent first:",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "b70822cb64": {
+   "en": "- **[Nuke: Composição e VFX](https://unhideschool.com/cursos/view-all/6621/nuke-composicao-e-vfx)** —\n  um curso gravado na Unhide School, onde sou o autor e instrutor.\n  Ensinar é a outra metade da medição: o mesmo instinto por trás\n  do relativity-paradox-lab, apenas direcionado para minha própria arte.",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "- **[Nuke: Composição e VFX](https://unhideschool.com/cursos/view-all/6621/nuke-composicao-e-vfx)** —\n  a recorded course at Unhide School, where I am the author and instructor.\n  Teaching is the other half of measuring: the same instinct behind\n  relativity-paradox-lab, just aimed at my own craft.",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "baeda1ff17": {
+   "en": "| | | |\n|:--:|:--:|:--:|\n| ![Amazônia](media/mobius-amazonia.jpg) | ![Cerrado](media/mobius-cerrado.jpg) | ![Caatinga](media/mobius-caatinga.jpg) |\n| **Amazônia** — fibra de palmeira arumã · arara-azul | **Cerrado** — grama dourada capim-dourado · seriema-de-pernas-vermelhas | **Caatinga** — couro curtido vegetal · periquito-da-caatinga |\n| ![Mata Atlântica](media/mobius-mata-atlantica.jpg) | ![Pampa](media/mobius-pampa.jpg) | ![Pantanal](media/mobius-pantanal.jpg) |\n| **Mata Atlântica** — videira e junco taboa · tucano-de-crista | **Pampa** — lã e couro guasca cru · hornero-de-peito-rufous | **Pantanal** — palha de palmeira carandá · jabiru |",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "| | | |\n|:--:|:--:|:--:|\n| ![Amazônia](media/mobius-amazonia.jpg) | ![Cerrado](media/mobius-cerrado.jpg) | ![Caatinga](media/mobius-caatinga.jpg) |\n| **Amazônia** — arumã palm fiber · scarlet macaw | **Cerrado** — golden capim-dourado grass · red-legged seriema | **Caatinga** — vegetable-tanned leather · caatinga parakeet |\n| ![Mata Atlântica](media/mobius-mata-atlantica.jpg) | ![Pampa](media/mobius-pampa.jpg) | ![Pantanal](media/mobius-pantanal.jpg) |\n| **Mata Atlântica** — vine and taboa reed · toco toucan | **Pampa** — raw wool and leather guasca · rufous hornero | **Pantanal** — carandá palm straw · jabiru stork |",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "baf7d09b46": {
+   "en": "**Guariba** — uma série animada original que estou escrevendo, dirigindo e produzindo,\nambientada nas planícies alagadas do Pantanal. Seu método de produção é onde minhas duas artes\nse encontram: **3D descarta, a tinta difunde, a geometria projetiva verifica.** A IA está\nnos bastidores e apenas como referência — os quadros finais são pintados, e essa fronteira é declarada.",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "**Guariba** — an original animated series I'm writing, directing and producing,\nset in the Pantanal wetlands. Its production method is where my two crafts\nmeet: **3D disposes, diffusion paints, projective geometry verifies.** AI is\nbackstage and reference only — final frames are painted, and that boundary is\ndeclared.",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "bd0a9a6dc2": {
+   "en": "O problema difícil não foi gerar as imagens. Foi **escala**. Nas primeiras versões, o tucano\nsaiu quase do tamanho de uma folha caída, e o jabiru — mais alto que uma pessoa sentada —\nparecia menor que o lixo aos seus pés. O chão estava sendo pintado na mesma escala aparente\ntoda vez, enquanto as espécies variam de um hornero de 13 cm a um jabiru de 130 cm: dez vezes\nentre as extremidades.",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "The hard problem was not generating the images. It was **scale**. In the first\nversions the toucan came out nearly the size of a fallen leaf, and the jabiru —\ntaller than a seated person — looked smaller than the litter at its feet. The\nground was being painted at the same apparent scale every time, while the\nspecies run from a 13 cm hornero to a 130 cm jabiru: ten times between the ends.",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "c80d889dc3": {
+   "en": "- um **conjunto de integração Kitsu ↔ Nuke** para configuração de cena e versionamento;\n- um **mentor de composição determinístico** para Nuke — conselhos baseados em modelo, sem APIs externas, nada sai da máquina;\n- **construtores de topologia de projeto procedurais** para estruturas de pastas de pipeline.",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "- a **Kitsu ↔ Nuke integration suite** for shot setup and versioning;\n- a **deterministic compositing mentor** for Nuke — template-driven advice,\n  no external APIs, nothing leaves the machine;\n- **procedural project-topology builders** for pipeline folder structures.",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "f667456d59": {
+   "en": "Compositor VFX na **Bóson Post** (anteriormente CONSULADO), trabalhando remotamente de Montes Claros. Além do trabalho de cena, construo ferramentas de pipeline em uso de produção (compartilhadas aqui como capacidade, não como código — o trabalho do cliente permanece sob NDA):",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "VFX compositor at **Bóson Post** (previously CONSULADO), working remote from\nMontes Claros. Alongside shot work, I build pipeline tooling in production use\n(shared here as capability, not code — client work stays under NDA):",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "fa2f874a02": {
+   "en": "- **[relativity-paradox-lab](https://github.com/mateusalkimim/relativity-paradox-lab)** —\n  um instrumento de ensino interativo de Relatividade Especial (Godot 4, controlado por gamepad),\n  construído para sessões ao vivo de 20 minutos com audiências do ensino médio. Baseado em\n  Alencar et al. (2023); desenvolvido a partir do trabalho do nosso grupo de pesquisa sobre o Paradoxo dos Gêmeos apresentado no III Congresso Internacional de Educação e Inovação (Unimontes, 2025). GPLv3.\n- **[math-prerequisite-map](https://github.com/mateusalkimim/math-prerequisite-map)** —\n  um mapa interativo de pré-requisitos de matemática do ensino superior\n  ([ao vivo](https://mateusalkimim.github.io/math-prerequisite-map/)): 50 disciplinas,\n  78 dependências em 13 camadas, e **nenhum caminho sem justificativa** — cada seta declara de qual livro veio e em que classe de evidência se baseia. O layout é medido, não desenhado: as interseções são reduzidas de 102 para 41, contadas no rodapé da própria página. Publicado como proposta, em português. MIT + CC BY-SA.\n- **[seeing-calculus](https://github.com/mateusalkimim/seeing-calculus)** —\n  nove instrumentos interativos que, em ordem, construem o fundamento visual do cálculo\n  ([ao vivo](https://mateusalkimim.github.io/seeing-calculus/)): canvas e aritmética,\n  sem biblioteca, sem rede, nada sai da máquina. Cada um é construído de modo que sua afirmação possa ser **verificada com uma régua** — quando uma figura diz que a derivada é a tangente de um ângulo, ela desenha o círculo e a curva na mesma escala e na mesma linha zero, de modo que as duas medidas que a equação compara são duas medidas iguais em pixels. Um gate garante o que a ordem promete: nenhum símbolo é usado antes de um instrumento anterior declará-lo, e ele funciona com um controle negativo. Em português. MIT + CC BY-SA.\n- **[abstraction-ladder](https://github.com/mateusalkimim/abstraction-ladder)** —\n  um mapa de computação que admite apenas o que alguém leu\n  ([ao vivo](https://mateusalkimim.github.io/abstraction-ladder/)): do eletromagnetismo ao computador de registro, **cada seta abre a sentença que a sustenta**, copiada do livro com seu capítulo. A garantia é estrutural — o gerador *aborta* se uma aresta chega sem citação — e um verificador separado verifica cada citação contra a fonte, passagem por passagem; **nunca retorna \"ok\" por falta de prova**, e diz 35 de 36, não \"todos\", porque um livro ainda não está no estante. As arestas são prospectadas por um modelo local e depois controladas: de 48 propostas, 46 passaram pelo gate verbatim e 34 passaram pelo meu julgamento, com os 12 descartes registrados um a um com o motivo. Um modelo pode encontrar; não pode afirmar. Em português. MIT + CC BY-SA.\n- **[geometry-verifies](https://github.com/mateusalkimim/geometry-verifies)** —\n  a ferramenta de metrologia geométrica por trás da minha pipeline de pintura em matte:\n  metrologia de uma única vista (Criminisi, Reid & Zisserman, 2000) verificando\n  pinturas assistidas por IA contra a verdade no terreno da câmera — medições pré-registradas,\n  julgamento cego, recibos para cada afirmação. MIT + CC BY.",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "- **[relativity-paradox-lab](https://github.com/mateusalkimim/relativity-paradox-lab)** —\n  an interactive Special Relativity teaching instrument (Godot 4, gamepad-driven),\n  built for live 20-minute sessions with high-school audiences. Based on\n  Alencar et al. (2023); grown out of our research group's Twin Paradox work\n  presented at the III International Congress on Education and Innovation\n  (Unimontes, 2025). GPLv3.\n- **[math-prerequisite-map](https://github.com/mateusalkimim/math-prerequisite-map)** —\n  an interactive prerequisite map of undergraduate mathematics\n  ([live](https://mateusalkimim.github.io/math-prerequisite-map/)): 50 subjects,\n  78 dependencies across 13 layers, and **no edge without a warrant** — each arrow\n  declares which book it came from, and which class of evidence it rests on. The\n  layout is measured, not drawn: crossings cut from 102 to 41, counted in the\n  page's own footer. Published as a proposal, in Portuguese. MIT + CC BY-SA.\n- **[seeing-calculus](https://github.com/mateusalkimim/seeing-calculus)** —\n  nine interactive instruments that build, in order, the visual ground of calculus\n  ([live](https://mateusalkimim.github.io/seeing-calculus/)): canvas and arithmetic,\n  no library, no network, nothing leaves the machine. Each one is built so its claim\n  can be **checked with a ruler** — when a figure says the derivative is the tangent\n  of an angle, it draws the circle and the curve on the same scale and the same zero\n  line, so the two lengths the equation compares are two equal lengths in pixels.\n  A gate enforces what the order promises: no symbol spent before an earlier\n  instrument declares it, and it runs with a negative control. In Portuguese.\n  MIT + CC BY-SA.\n- **[abstraction-ladder](https://github.com/mateusalkimim/abstraction-ladder)** —\n  a map of computing that admits only what someone has read\n  ([live](https://mateusalkimim.github.io/abstraction-ladder/)): from the electromagnet\n  to the register machine, **every arrow opens the sentence that supports it**, copied\n  from the book with its chapter. The guarantee is structural — the generator *aborts*\n  if an edge arrives without a citation — and a separate checker verifies each quotation\n  against the source, passage by passage; **it never returns \"ok\" for want of proof**,\n  and it says 35 of 36, not \"all\", because one book is not yet on the shelf. Edges are\n  prospected by a local model and then gated: of 48 proposals, 46 cleared the verbatim\n  gate and 34 cleared my judgment, with the 12 discards recorded one by one with the\n  reason. A model may find; it may not assert. In Portuguese. MIT + CC BY-SA.\n- **[geometry-verifies](https://github.com/mateusalkimim/geometry-verifies)** —\n  the geometric-metrology toolkit behind my matte painting pipeline:\n  single-view metrology (Criminisi, Reid & Zisserman, 2000) verifying\n  AI-assisted paintings against camera ground truth — pre-registered\n  measurements, blind judgment, receipts for every claim. MIT + CC BY.",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "fdb1cf163d": {
+   "en": "## Créditos selecionados",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "## Selected credits",
+   "qa": "ok",
+   "tipo": "md"
+  }
+ },
+ "fatia": "README",
+ "idioma": "en-US"
+}

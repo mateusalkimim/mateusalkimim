@@ -1,3 +1,7 @@
+<!-- idioma: linha gerada por i18n.py -->
+> [!NOTE]
+> ### 🇧🇷 **[Leia esta página em português →](README.pt-BR.md)**
+
 ![Mateus Alkimim — VFX compositor, independent researcher in computer vision and image geometry, physics undergraduate.](media/banner.jpg)
 
 # Mateus Alkimim

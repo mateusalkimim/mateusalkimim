@@ -17,26 +17,47 @@ Eu meço imagens. Meu trabalho vive na ponte entre a produção de VFX e a matem
 
 ## Comece aqui
 
-- **[relativity-paradox-lab](https://github.com/mateusalkimim/relativity-paradox-lab)** —
-  um instrumento de ensino interativo de Relatividade Especial (Godot 4, controlado por gamepad),
-  construído para sessões ao vivo de 20 minutos com audiências do ensino médio. Baseado em
-  Alencar et al. (2023); desenvolvido a partir do trabalho do nosso grupo de pesquisa sobre o Paradoxo dos Gêmeos apresentado no III Congresso Internacional de Educação e Inovação (Unimontes, 2025). GPLv3.
-- **[math-prerequisite-map](https://github.com/mateusalkimim/math-prerequisite-map)** —
-  um mapa interativo de pré-requisitos de matemática do ensino superior
-  ([ao vivo](https://mateusalkimim.github.io/math-prerequisite-map/)): 50 disciplinas,
-  78 dependências em 13 camadas, e **nenhum caminho sem justificativa** — cada seta declara de qual livro veio e em que classe de evidência se baseia. O layout é medido, não desenhado: as interseções são reduzidas de 102 para 41, contadas no rodapé da própria página. Publicado como proposta, em português. MIT + CC BY-SA.
-- **[seeing-calculus](https://github.com/mateusalkimim/seeing-calculus)** —
-  nove instrumentos interativos que, em ordem, construem o fundamento visual do cálculo
-  ([ao vivo](https://mateusalkimim.github.io/seeing-calculus/)): canvas e aritmética,
-  sem biblioteca, sem rede, nada sai da máquina. Cada um é construído de modo que sua afirmação possa ser **verificada com uma régua** — quando uma figura diz que a derivada é a tangente de um ângulo, ela desenha o círculo e a curva na mesma escala e na mesma linha zero, de modo que as duas medidas que a equação compara são duas medidas iguais em pixels. Um gate garante o que a ordem promete: nenhum símbolo é usado antes de um instrumento anterior declará-lo, e ele funciona com um controle negativo. Em português. MIT + CC BY-SA.
-- **[abstraction-ladder](https://github.com/mateusalkimim/abstraction-ladder)** —
-  um mapa de computação que admite apenas o que alguém leu
-  ([ao vivo](https://mateusalkimim.github.io/abstraction-ladder/)): do eletromagnetismo ao computador de registro, **cada seta abre a sentença que a sustenta**, copiada do livro com seu capítulo. A garantia é estrutural — o gerador *aborta* se uma aresta chega sem citação — e um verificador separado verifica cada citação contra a fonte, passagem por passagem; **nunca retorna "ok" por falta de prova**, e diz 35 de 36, não "todos", porque um livro ainda não está no estante. As arestas são prospectadas por um modelo local e depois controladas: de 48 propostas, 46 passaram pelo gate verbatim e 34 passaram pelo meu julgamento, com os 12 descartes registrados um a um com o motivo. Um modelo pode encontrar; não pode afirmar. Em português. MIT + CC BY-SA.
+Primeiro, o que está mais próximo da arte.
+
 - **[geometry-verifies](https://github.com/mateusalkimim/geometry-verifies)** —
-  a ferramenta de metrologia geométrica por trás da minha pipeline de pintura em matte:
+  a ferramenta de metrologia geométrica por trás do meu pipeline de pintura em plano:
   metrologia de uma única vista (Criminisi, Reid & Zisserman, 2000) verificando
   pinturas assistidas por IA contra a verdade no terreno da câmera — medições pré-registradas,
   julgamento cego, recibos para cada afirmação. MIT + CC BY.
+- **[abstraction-ladder](https://github.com/mateusalkimim/abstraction-ladder)** —
+  um mapa da computação que admite apenas o que alguém leu
+  ([ao vivo](https://mateusalkimim.github.io/abstraction-ladder/)): do eletromagneto
+  ao computador de registro, **cada seta abre a sentença que a sustenta**, copiada
+  do livro com seu capítulo. A garantia é estrutural — o gerador *aborta*
+  se uma aresta chega sem citação — e um verificador separado verifica cada citação
+  contra a fonte, passagem por passagem; **nunca retorna "ok" por falta de prova**,
+  e diz 35 de 36, não "todos", porque um livro ainda não está no estante. As arestas
+  são prospectadas por um modelo local e depois liberadas: de 48 propostas, 46 passaram
+  pela liberação de verbatim e 34 passaram pelo meu julgamento, com os 12 descartes
+  registrados um a um com o motivo. Um modelo pode encontrar; não pode afirmar. Em Português.
+  MIT + CC BY-SA.
+- **[seeing-calculus](https://github.com/mateusalkimim/seeing-calculus)** —
+  nove instrumentos interativos que, em ordem, constroem o terreno visual do cálculo
+  ([ao vivo](https://mateusalkimim.github.io/seeing-calculus/)): tela e álgebra,
+  sem biblioteca, sem rede, nada sai da máquina. Cada um é construído de modo que sua
+  afirmação possa ser **verificada com uma régua** — quando uma figura diz que a derivada
+  é a tangente de um ângulo, ela desenha o círculo e a curva na mesma escala e na mesma
+  linha zero, de modo que os dois comprimentos que a equação compara são dois comprimentos
+  iguais em pixels. Uma liberação faz cumprir o que a ordem promete: nenhum símbolo gasto
+  antes de um instrumento anterior declará-lo, e ele roda com um controle negativo. Em Português.
+  MIT + CC BY-SA.
+- **[math-prerequisite-map](https://github.com/mateusalkimim/math-prerequisite-map)** —
+  um mapa interativo de pré-requisitos de matemática do ensino médio
+  ([ao vivo](https://mateusalkimim.github.io/math-prerequisite-map/)): 50 disciplinas,
+  78 dependências em 13 camadas, e **nenhuma aresta sem garantia** — cada seta declara
+  de qual livro veio e em que classe de evidência se baseia. O layout é medido, não desenhado:
+  cruzamentos cortados de 102 para 41, contados no rodapé da própria página. Publicado como proposta, em Português. MIT + CC BY-SA.
+- **[relativity-paradox-lab](https://github.com/mateusalkimim/relativity-paradox-lab)** —
+  um instrumento de ensino interativo de Relatividade Especial (Godot 4, controlado por gamepad),
+  construído para sessões ao vivo de 20 minutos com audiências do ensino médio. Baseado
+  em Alencar et al. (2023); desenvolvido a partir do trabalho do nosso grupo de pesquisa
+  sobre o Paradoxo dos Gêmeos apresentado no III Congresso Internacional de Educação e Inovação
+  (Unimontes, 2025). GPLv3.
 
 ## O que eu construo no trabalho
 

@@ -19,29 +19,13 @@ and geometry that verifies what the eye believes.
 
 ## Start here
 
-- **[relativity-paradox-lab](https://github.com/mateusalkimim/relativity-paradox-lab)** —
-  an interactive Special Relativity teaching instrument (Godot 4, gamepad-driven),
-  built for live 20-minute sessions with high-school audiences. Based on
-  Alencar et al. (2023); grown out of our research group's Twin Paradox work
-  presented at the III International Congress on Education and Innovation
-  (Unimontes, 2025). GPLv3.
-- **[math-prerequisite-map](https://github.com/mateusalkimim/math-prerequisite-map)** —
-  an interactive prerequisite map of undergraduate mathematics
-  ([live](https://mateusalkimim.github.io/math-prerequisite-map/)): 50 subjects,
-  78 dependencies across 13 layers, and **no edge without a warrant** — each arrow
-  declares which book it came from, and which class of evidence it rests on. The
-  layout is measured, not drawn: crossings cut from 102 to 41, counted in the
-  page's own footer. Published as a proposal, in Portuguese. MIT + CC BY-SA.
-- **[seeing-calculus](https://github.com/mateusalkimim/seeing-calculus)** —
-  nine interactive instruments that build, in order, the visual ground of calculus
-  ([live](https://mateusalkimim.github.io/seeing-calculus/)): canvas and arithmetic,
-  no library, no network, nothing leaves the machine. Each one is built so its claim
-  can be **checked with a ruler** — when a figure says the derivative is the tangent
-  of an angle, it draws the circle and the curve on the same scale and the same zero
-  line, so the two lengths the equation compares are two equal lengths in pixels.
-  A gate enforces what the order promises: no symbol spent before an earlier
-  instrument declares it, and it runs with a negative control. In Portuguese.
-  MIT + CC BY-SA.
+Closest to the craft first.
+
+- **[geometry-verifies](https://github.com/mateusalkimim/geometry-verifies)** —
+  the geometric-metrology toolkit behind my matte painting pipeline:
+  single-view metrology (Criminisi, Reid & Zisserman, 2000) verifying
+  AI-assisted paintings against camera ground truth — pre-registered
+  measurements, blind judgment, receipts for every claim. MIT + CC BY.
 - **[abstraction-ladder](https://github.com/mateusalkimim/abstraction-ladder)** —
   a map of computing that admits only what someone has read
   ([live](https://mateusalkimim.github.io/abstraction-ladder/)): from the electromagnet
@@ -53,11 +37,29 @@ and geometry that verifies what the eye believes.
   prospected by a local model and then gated: of 48 proposals, 46 cleared the verbatim
   gate and 34 cleared my judgment, with the 12 discards recorded one by one with the
   reason. A model may find; it may not assert. In Portuguese. MIT + CC BY-SA.
-- **[geometry-verifies](https://github.com/mateusalkimim/geometry-verifies)** —
-  the geometric-metrology toolkit behind my matte painting pipeline:
-  single-view metrology (Criminisi, Reid & Zisserman, 2000) verifying
-  AI-assisted paintings against camera ground truth — pre-registered
-  measurements, blind judgment, receipts for every claim. MIT + CC BY.
+- **[seeing-calculus](https://github.com/mateusalkimim/seeing-calculus)** —
+  nine interactive instruments that build, in order, the visual ground of calculus
+  ([live](https://mateusalkimim.github.io/seeing-calculus/)): canvas and arithmetic,
+  no library, no network, nothing leaves the machine. Each one is built so its claim
+  can be **checked with a ruler** — when a figure says the derivative is the tangent
+  of an angle, it draws the circle and the curve on the same scale and the same zero
+  line, so the two lengths the equation compares are two equal lengths in pixels.
+  A gate enforces what the order promises: no symbol spent before an earlier
+  instrument declares it, and it runs with a negative control. In Portuguese.
+  MIT + CC BY-SA.
+- **[math-prerequisite-map](https://github.com/mateusalkimim/math-prerequisite-map)** —
+  an interactive prerequisite map of undergraduate mathematics
+  ([live](https://mateusalkimim.github.io/math-prerequisite-map/)): 50 subjects,
+  78 dependencies across 13 layers, and **no edge without a warrant** — each arrow
+  declares which book it came from, and which class of evidence it rests on. The
+  layout is measured, not drawn: crossings cut from 102 to 41, counted in the
+  page's own footer. Published as a proposal, in Portuguese. MIT + CC BY-SA.
+- **[relativity-paradox-lab](https://github.com/mateusalkimim/relativity-paradox-lab)** —
+  an interactive Special Relativity teaching instrument (Godot 4, gamepad-driven),
+  built for live 20-minute sessions with high-school audiences. Based on
+  Alencar et al. (2023); grown out of our research group's Twin Paradox work
+  presented at the III International Congress on Education and Innovation
+  (Unimontes, 2025). GPLv3.
 
 ## What I build at work
 

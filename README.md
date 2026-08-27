@@ -25,7 +25,7 @@ and geometry that verifies what the eye believes.
   layout is measured, not drawn: crossings cut from 102 to 41, counted in the
   page's own footer. Published as a proposal, in Portuguese. MIT + CC BY-SA.
 - **[seeing-calculus](https://github.com/mateusalkimim/seeing-calculus)** —
-  eight interactive instruments that build, in order, the visual ground of calculus
+  nine interactive instruments that build, in order, the visual ground of calculus
   ([live](https://mateusalkimim.github.io/seeing-calculus/)): canvas and arithmetic,
   no library, no network, nothing leaves the machine. Each one is built so its claim
   can be **checked with a ruler** — when a figure says the derivative is the tangent

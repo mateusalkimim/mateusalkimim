@@ -1,0 +1,16 @@
+# Glossário EN -> pt-BR. Termo de ofício de VFX: o que a casa usa, não o que o
+# dicionário diz. Uma linha por termo.
+#
+# O primeiro entrou em 2026-08-27: o modelo traduziu "shot" por "cena", e em
+# VFX cena é outra unidade — o autor escreve "plano" em todo lugar.
+shot = plano (NUNCA "cena")
+shot work = trabalho de plano
+scene = cena
+plate = placa
+pipeline = pipeline (não traduzir)
+compositing = compositing ou composição, conforme a frase — nunca "composição de imagem"
+breakdown = breakdown (não traduzir)
+showreel = showreel (não traduzir)
+versioning = versionamento
+shots = planos (NUNCA "tomadas" — tomada é a unidade de filmagem, não o plano de VFX)
+I measure images = Eu meço imagens

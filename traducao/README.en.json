@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-08-27 17:06:31",
+ "atualizado_em": "2026-08-27 17:11:05",
  "blocos": {
   "025bd01251": {
    "en": "## O que estou fazendo e estudando",
@@ -34,11 +34,12 @@
    "tipo": "md"
   },
   "25313e1ba9": {
-   "en": "Produções lançadas em que trabalhei como compositor, e o estúdio por onde cada entrega passou (títulos e estúdios são créditos públicos; planos e desmembramentos permanecem sob NDA) — mais recentes primeiro.  \nVeja os vídeos para esses: **showreel [live action](https://vimeo.com/980924367) · [3D](https://vimeo.com/981305381)**.",
+   "en": "Produções lançadas em que trabalhei como compositor, e o estúdio por onde cada entrega passou (títulos e estúdios são créditos públicos; planos e breakdowns permanecem sob NDA) — mais recentes primeiro.  \nVeja os vídeos para esses: **showreel [live action](https://vimeo.com/980924367) · [3D](https://vimeo.com/981305381)**.",
    "modelo": "phi-4",
    "orfao": false,
    "pt": "Released productions I worked on as a compositor, and the studio each\ndelivery went through (titles and studios are public credits; shots and\nbreakdowns stay under NDA) — most recent first.\nMoving pictures for these: **showreel [live action](https://vimeo.com/980924367) · [3D](https://vimeo.com/981305381)**.",
    "qa": "ok",
+   "reparo": "\"breakdown\" nao se traduz em VFX brasileiro — o modelo devolveu \"desmembramentos\" mesmo com o termo no glossario. Reparo a mao, registrado: glossario de uma linha nem sempre e obedecido.",
    "tipo": "md"
   },
   "2a824465c5": {
@@ -97,6 +98,14 @@
    "qa": "ok",
    "tipo": "md"
   },
+  "643cf059b0": {
+   "en": "Compositor VFX na **Bóson Post** (anteriormente CONSULADO), trabalhando remotamente de Montes Claros. Além do trabalho de plano, também construo:",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "VFX compositor at **Bóson Post** (previously CONSULADO), working remote from\nMontes Claros. Alongside shot work I also build:",
+   "qa": "ok",
+   "tipo": "md"
+  },
   "655c7c1715": {
    "en": null,
    "ja_en": true,
@@ -118,8 +127,16 @@
    "pt": "[mateusalkimim.com](https://mateusalkimim.com) ·\n[LinkedIn](https://www.linkedin.com/in/mateus-alkimim-b93b80223) ·\nshowreel: [live action](https://vimeo.com/980924367) · [3D](https://vimeo.com/981305381)\n",
    "tipo": "md"
   },
+  "8e9a04ea67": {
+   "en": "Uma **Integração Kitsu ↔ Nuke** em uso na produção no estúdio: quatro ferramentas que abrem um plano a partir de sua tarefa, importam e colapsam sequências de mídia, publicam do início ao fim e mantêm a lista de tarefas do artista dentro do Nuke.",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "A **Kitsu ↔ Nuke integration** in production use at the studio: four tools that\nopen a shot from its task, import and collapse media sequences, publish\nend to end, and keep the artist's task list inside Nuke.",
+   "qa": "ok",
+   "tipo": "md"
+  },
   "a7d8d08425": {
-   "en": "Mediço imagens. Meu trabalho vive na ponte entre a produção de VFX e  \nmatemática: compositing que fecha tomadas, ferramentas de pipeline que os estúdios  \nadotam, e geometria que verifica o que o olho acredita.",
+   "en": "Eu meço imagens. Meu trabalho vive na ponte entre a produção de VFX e a matemática: composição que fecha planos, ferramentas de pipeline que os estúdios adotam e geometria que verifica o que o olho acredita.",
    "modelo": "phi-4",
    "orfao": false,
    "pt": "I measure images. My work lives on the bridge between VFX production and\nmathematics: compositing that closes shots, pipeline tools that studios adopt,\nand geometry that verifies what the eye believes.",
@@ -143,11 +160,10 @@
    "tipo": "md"
   },
   "ad403214cf": {
-   "en": "Produções lançadas nas quais trabalhei como compositor, e o estúdio por qual  \ncada entrega passou (títulos e estúdios são créditos públicos; tomadas e  \ndesdobramentos permanecem sob NDA) — mais recente primeiro:",
+   "en": null,
    "modelo": "phi-4",
    "orfao": true,
    "pt": "Released productions I worked on as a compositor, and the studio each\ndelivery went through (titles and studios are public credits; shots and\nbreakdowns stay under NDA) — most recent first:",
-   "qa": "ok",
    "tipo": "md"
   },
   "b2f9882873": {
@@ -191,10 +207,17 @@
    "tipo": "md"
   },
   "c80d889dc3": {
-   "en": "- um **conjunto de integração Kitsu ↔ Nuke** para configuração de cena e versionamento;\n- um **mentor de composição determinístico** para Nuke — conselhos baseados em modelo, sem APIs externas, nada sai da máquina;\n- **construtores de topologia de projeto procedurais** para estruturas de pastas de pipeline.",
+   "en": null,
+   "modelo": "phi-4",
+   "orfao": true,
+   "pt": "- a **Kitsu ↔ Nuke integration suite** for shot setup and versioning;\n- a **deterministic compositing mentor** for Nuke — template-driven advice,\n  no external APIs, nothing leaves the machine;\n- **procedural project-topology builders** for pipeline folder structures.",
+   "tipo": "md"
+  },
+  "cc431f5c7e": {
+   "en": "- um **mentor de composição determinístico** para Nuke — conselhos baseados em template,  \n  sem APIs externas, nada sai da máquina;  \n- **construtores de topologia de projeto procedurais** para estruturas de pastas de pipeline.",
    "modelo": "phi-4",
    "orfao": false,
-   "pt": "- a **Kitsu ↔ Nuke integration suite** for shot setup and versioning;\n- a **deterministic compositing mentor** for Nuke — template-driven advice,\n  no external APIs, nothing leaves the machine;\n- **procedural project-topology builders** for pipeline folder structures.",
+   "pt": "- a **deterministic compositing mentor** for Nuke — template-driven advice,\n  no external APIs, nothing leaves the machine;\n- **procedural project-topology builders** for pipeline folder structures.",
    "qa": "ok",
    "tipo": "md"
   },
@@ -206,12 +229,19 @@
    "qa": "ok",
    "tipo": "md"
   },
-  "f667456d59": {
-   "en": "Compositor VFX na **Bóson Post** (anteriormente CONSULADO), trabalhando remotamente de Montes Claros. Além do trabalho de cena, construo ferramentas de pipeline em uso de produção (compartilhadas aqui como capacidade, não como código — o trabalho do cliente permanece sob NDA):",
+  "f471a3f35e": {
+   "en": "O trabalho com clientes permanece sob NDA, então o que é compartilhado aqui é a capacidade, não o código.",
    "modelo": "phi-4",
    "orfao": false,
-   "pt": "VFX compositor at **Bóson Post** (previously CONSULADO), working remote from\nMontes Claros. Alongside shot work, I build pipeline tooling in production use\n(shared here as capability, not code — client work stays under NDA):",
+   "pt": "Client work stays under NDA, so what is shared here is capability, not code.",
    "qa": "ok",
+   "tipo": "md"
+  },
+  "f667456d59": {
+   "en": null,
+   "modelo": "phi-4",
+   "orfao": true,
+   "pt": "VFX compositor at **Bóson Post** (previously CONSULADO), working remote from\nMontes Claros. Alongside shot work, I build pipeline tooling in production use\n(shared here as capability, not code — client work stays under NDA):",
    "tipo": "md"
   },
   "fa2f874a02": {
@@ -227,6 +257,14 @@
    "modelo": "phi-4",
    "orfao": false,
    "pt": "## Selected credits",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "fe2ae6298d": {
+   "en": "**Em produção** — uma integração Kitsu ↔ Nuke em uso no estúdio, e as quatro ferramentas do Nuke ao seu redor.",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "**In production** — a Kitsu ↔ Nuke integration in use at the studio, and the four Nuke tools around it.",
    "qa": "ok",
    "tipo": "md"
   }

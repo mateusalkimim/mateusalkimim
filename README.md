@@ -11,6 +11,8 @@ image geometry · Physics undergraduate** — Montes Claros, Brazil
 
 **Showreel** — [compositing · live action](https://vimeo.com/980924367) · [compositing · 3D](https://vimeo.com/981305381)
 
+**In production** — a Kitsu ↔ Nuke integration in use at the studio, and the four Nuke tools around it.
+
 I measure images. My work lives on the bridge between VFX production and
 mathematics: compositing that closes shots, pipeline tools that studios adopt,
 and geometry that verifies what the eye believes.
@@ -59,14 +61,18 @@ and geometry that verifies what the eye believes.
 
 ## What I build at work
 
-VFX compositor at **Bóson Post** (previously CONSULADO), working remote from
-Montes Claros. Alongside shot work, I build pipeline tooling in production use
-(shared here as capability, not code — client work stays under NDA):
+A **Kitsu ↔ Nuke integration** in production use at the studio: four tools that
+open a shot from its task, import and collapse media sequences, publish
+end to end, and keep the artist's task list inside Nuke.
 
-- a **Kitsu ↔ Nuke integration suite** for shot setup and versioning;
+VFX compositor at **Bóson Post** (previously CONSULADO), working remote from
+Montes Claros. Alongside shot work I also build:
+
 - a **deterministic compositing mentor** for Nuke — template-driven advice,
   no external APIs, nothing leaves the machine;
 - **procedural project-topology builders** for pipeline folder structures.
+
+Client work stays under NDA, so what is shared here is capability, not code.
 
 ## Selected credits
 

@@ -11,9 +11,9 @@ geometria de imagem · Estudante de física** — Montes Claros, Brasil
 
 **Showreel** — [compositing · live action](https://vimeo.com/980924367) · [compositing · 3D](https://vimeo.com/981305381)
 
-Mediço imagens. Meu trabalho vive na ponte entre a produção de VFX e  
-matemática: compositing que fecha tomadas, ferramentas de pipeline que os estúdios  
-adotam, e geometria que verifica o que o olho acredita.
+**Em produção** — uma integração Kitsu ↔ Nuke em uso no estúdio, e as quatro ferramentas do Nuke ao seu redor.
+
+Eu meço imagens. Meu trabalho vive na ponte entre a produção de VFX e a matemática: composição que fecha planos, ferramentas de pipeline que os estúdios adotam e geometria que verifica o que o olho acredita.
 
 ## Comece aqui
 
@@ -40,15 +40,19 @@ adotam, e geometria que verifica o que o olho acredita.
 
 ## O que eu construo no trabalho
 
-Compositor VFX na **Bóson Post** (anteriormente CONSULADO), trabalhando remotamente de Montes Claros. Além do trabalho de cena, construo ferramentas de pipeline em uso de produção (compartilhadas aqui como capacidade, não como código — o trabalho do cliente permanece sob NDA):
+Uma **Integração Kitsu ↔ Nuke** em uso na produção no estúdio: quatro ferramentas que abrem um plano a partir de sua tarefa, importam e colapsam sequências de mídia, publicam do início ao fim e mantêm a lista de tarefas do artista dentro do Nuke.
 
-- um **conjunto de integração Kitsu ↔ Nuke** para configuração de cena e versionamento;
-- um **mentor de composição determinístico** para Nuke — conselhos baseados em modelo, sem APIs externas, nada sai da máquina;
+Compositor VFX na **Bóson Post** (anteriormente CONSULADO), trabalhando remotamente de Montes Claros. Além do trabalho de plano, também construo:
+
+- um **mentor de composição determinístico** para Nuke — conselhos baseados em template,  
+  sem APIs externas, nada sai da máquina;  
 - **construtores de topologia de projeto procedurais** para estruturas de pastas de pipeline.
+
+O trabalho com clientes permanece sob NDA, então o que é compartilhado aqui é a capacidade, não o código.
 
 ## Créditos selecionados
 
-Produções lançadas em que trabalhei como compositor, e o estúdio por onde cada entrega passou (títulos e estúdios são créditos públicos; planos e desmembramentos permanecem sob NDA) — mais recentes primeiro.  
+Produções lançadas em que trabalhei como compositor, e o estúdio por onde cada entrega passou (títulos e estúdios são créditos públicos; planos e breakdowns permanecem sob NDA) — mais recentes primeiro.  
 Veja os vídeos para esses: **showreel [live action](https://vimeo.com/980924367) · [3D](https://vimeo.com/981305381)**.
 
 - **[O Gênio do Crime](https://www.imdb.com/title/tt39444949/)** (2026) —

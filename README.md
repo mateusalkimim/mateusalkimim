@@ -19,11 +19,21 @@ and geometry that verifies what the eye believes.
   (Unimontes, 2025). GPLv3.
 - **[math-prerequisite-map](https://github.com/mateusalkimim/math-prerequisite-map)** —
   an interactive prerequisite map of undergraduate mathematics
-  ([live](https://mateusalkimim.github.io/math-prerequisite-map/)): 39 subjects,
-  56 dependencies, and **no edge without a warrant** — each arrow declares which
-  book it came from, and which class of evidence it rests on. The layout is
-  measured, not drawn: crossings cut from 131 to 11, counted in the page's own
-  footer. Published as a proposal, in Portuguese. MIT + CC BY.
+  ([live](https://mateusalkimim.github.io/math-prerequisite-map/)): 50 subjects,
+  78 dependencies across 13 layers, and **no edge without a warrant** — each arrow
+  declares which book it came from, and which class of evidence it rests on. The
+  layout is measured, not drawn: crossings cut from 102 to 41, counted in the
+  page's own footer. Published as a proposal, in Portuguese. MIT + CC BY-SA.
+- **[seeing-calculus](https://github.com/mateusalkimim/seeing-calculus)** —
+  eight interactive instruments that build, in order, the visual ground of calculus
+  ([live](https://mateusalkimim.github.io/seeing-calculus/)): canvas and arithmetic,
+  no library, no network, nothing leaves the machine. Each one is built so its claim
+  can be **checked with a ruler** — when a figure says the derivative is the tangent
+  of an angle, it draws the circle and the curve on the same scale and the same zero
+  line, so the two lengths the equation compares are two equal lengths in pixels.
+  A gate enforces what the order promises: no symbol spent before an earlier
+  instrument declares it, and it runs with a negative control. In Portuguese.
+  MIT + CC BY-SA.
 - **[lol-draft-assistant](https://github.com/mateusalkimim/lol-draft-assistant)** —
   strictly read-only draft & build advisor for League of Legends: local statistics,
   confidence intervals, no raw data redistribution. MIT.

@@ -59,11 +59,12 @@
    "tipo": "md"
   },
   "3f795cec44": {
-   "en": "Primeiro, o que está mais próximo da arte.",
+   "en": "Primeiro, o que está mais perto do ofício.",
    "modelo": "phi-4",
    "orfao": false,
    "pt": "Closest to the craft first.",
    "qa": "ok",
+   "reparo": "\"craft\" e OFICIO, nao \"arte\": oficio cobre a tecnica e a arte, \"arte\" escolhe um lado — e esta linha existe justamente para dizer que a ordem segue o oficio inteiro.",
    "tipo": "md"
   },
   "4352e5a548": {

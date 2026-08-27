@@ -17,7 +17,7 @@ Eu meço imagens. Meu trabalho vive na ponte entre a produção de VFX e a matem
 
 ## Comece aqui
 
-Primeiro, o que está mais próximo da arte.
+Primeiro, o que está mais perto do ofício.
 
 - **[geometry-verifies](https://github.com/mateusalkimim/geometry-verifies)** —
   a ferramenta de metrologia geométrica por trás do meu pipeline de pintura em plano:

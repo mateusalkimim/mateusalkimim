@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-08-27 15:47:15",
+ "atualizado_em": "2026-08-27 17:06:31",
  "blocos": {
   "025bd01251": {
    "en": "## O que estou fazendo e estudando",
@@ -30,6 +30,14 @@
    "modelo": "phi-4",
    "orfao": false,
    "pt": "## Find me",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "25313e1ba9": {
+   "en": "Produções lançadas em que trabalhei como compositor, e o estúdio por onde cada entrega passou (títulos e estúdios são créditos públicos; planos e desmembramentos permanecem sob NDA) — mais recentes primeiro.  \nVeja os vídeos para esses: **showreel [live action](https://vimeo.com/980924367) · [3D](https://vimeo.com/981305381)**.",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "Released productions I worked on as a compositor, and the studio each\ndelivery went through (titles and studios are public credits; shots and\nbreakdowns stay under NDA) — most recent first.\nMoving pictures for these: **showreel [live action](https://vimeo.com/980924367) · [3D](https://vimeo.com/981305381)**.",
    "qa": "ok",
    "tipo": "md"
   },
@@ -92,7 +100,7 @@
   "655c7c1715": {
    "en": null,
    "ja_en": true,
-   "orfao": false,
+   "orfao": true,
    "pt": "[mateusalkimim.com](https://mateusalkimim.com) ·\n[LinkedIn](https://www.linkedin.com/in/mateus-alkimim-b93b80223)\n",
    "tipo": "md"
   },
@@ -101,6 +109,13 @@
    "ja_en": true,
    "orfao": false,
    "pt": "- **[O Gênio do Crime](https://www.imdb.com/title/tt39444949/)** (2026) —\n  feature film (Boutique Filmes/Globo Filmes, from João Carlos Marinho's 1969\n  classic), theatrical release; **my first on-screen film credit** — via [Bóson Post](https://www.bosonpost.com.br/) ·\n  ![Globoplay](https://img.shields.io/badge/Globoplay-fb0234)\n- **[Passinho: O Ritmo dos Sonhos](https://www.imdb.com/title/tt30699615/)** (2025) —\n  dance series, Disney+ Brazilian original; my first project with Bóson Post — via [Bóson Post](https://www.bosonpost.com.br/) ·\n  ![Disney+](https://img.shields.io/badge/Disney%2B-113CCF)\n- **[Amor da Minha Vida](https://www.imdb.com/title/tt27517632/)** (2024–) —\n  romantic comedy series, Disney+'s biggest Brazilian series debut of 2024 — via [The End](https://theend.tv/) ·\n  ![Disney+](https://img.shields.io/badge/Disney%2B-113CCF)\n- **[A Magia de Aruna](https://www.imdb.com/title/tt16225592/)** (2023) —\n  fantasy series, Disney+ Brazilian original — via [Miracle VFX](https://miraclevfx.com/) ·\n  ![Disney+](https://img.shields.io/badge/Disney%2B-113CCF)\n- **[DNA do Crime](https://www.imdb.com/title/tt22459586/)** (2023–) —\n  action/heist series, #1 on Netflix in 71 countries in its first season — freelance ·\n  ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)",
+   "tipo": "md"
+  },
+  "8714c92461": {
+   "en": null,
+   "ja_en": true,
+   "orfao": false,
+   "pt": "[mateusalkimim.com](https://mateusalkimim.com) ·\n[LinkedIn](https://www.linkedin.com/in/mateus-alkimim-b93b80223) ·\nshowreel: [live action](https://vimeo.com/980924367) · [3D](https://vimeo.com/981305381)\n",
    "tipo": "md"
   },
   "a7d8d08425": {
@@ -130,8 +145,16 @@
   "ad403214cf": {
    "en": "Produções lançadas nas quais trabalhei como compositor, e o estúdio por qual  \ncada entrega passou (títulos e estúdios são créditos públicos; tomadas e  \ndesdobramentos permanecem sob NDA) — mais recente primeiro:",
    "modelo": "phi-4",
-   "orfao": false,
+   "orfao": true,
    "pt": "Released productions I worked on as a compositor, and the studio each\ndelivery went through (titles and studios are public credits; shots and\nbreakdowns stay under NDA) — most recent first:",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "b2f9882873": {
+   "en": "<!-- idioma: linha gerada por i18n.py -->  \n> [!NOTE]  \n> ### 🇧🇷 **[Leia esta página em português →](README.pt-BR.md)**",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "<!-- idioma: linha gerada por i18n.py -->\n> [!NOTE]\n> ### 🇧🇷 **[Leia esta página em português →](README.pt-BR.md)**",
    "qa": "ok",
    "tipo": "md"
   },
@@ -172,6 +195,14 @@
    "modelo": "phi-4",
    "orfao": false,
    "pt": "- a **Kitsu ↔ Nuke integration suite** for shot setup and versioning;\n- a **deterministic compositing mentor** for Nuke — template-driven advice,\n  no external APIs, nothing leaves the machine;\n- **procedural project-topology builders** for pipeline folder structures.",
+   "qa": "ok",
+   "tipo": "md"
+  },
+  "f09ab751b4": {
+   "en": "**Showreel** — [compositing · live action](https://vimeo.com/980924367) · [compositing · 3D](https://vimeo.com/981305381)",
+   "modelo": "phi-4",
+   "orfao": false,
+   "pt": "**Showreel** — [compositing · live action](https://vimeo.com/980924367) · [compositing · 3D](https://vimeo.com/981305381)",
    "qa": "ok",
    "tipo": "md"
   },

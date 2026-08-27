@@ -9,6 +9,8 @@
 **Compositor de Efeitos Visuais · Pesquisador independente, visão computacional e  
 geometria de imagem · Estudante de física** — Montes Claros, Brasil
 
+**Showreel** — [compositing · live action](https://vimeo.com/980924367) · [compositing · 3D](https://vimeo.com/981305381)
+
 Mediço imagens. Meu trabalho vive na ponte entre a produção de VFX e  
 matemática: compositing que fecha tomadas, ferramentas de pipeline que os estúdios  
 adotam, e geometria que verifica o que o olho acredita.
@@ -46,9 +48,8 @@ Compositor VFX na **Bóson Post** (anteriormente CONSULADO), trabalhando remotam
 
 ## Créditos selecionados
 
-Produções lançadas nas quais trabalhei como compositor, e o estúdio por qual  
-cada entrega passou (títulos e estúdios são créditos públicos; tomadas e  
-desdobramentos permanecem sob NDA) — mais recente primeiro:
+Produções lançadas em que trabalhei como compositor, e o estúdio por onde cada entrega passou (títulos e estúdios são créditos públicos; planos e desmembramentos permanecem sob NDA) — mais recentes primeiro.  
+Veja os vídeos para esses: **showreel [live action](https://vimeo.com/980924367) · [3D](https://vimeo.com/981305381)**.
 
 - **[O Gênio do Crime](https://www.imdb.com/title/tt39444949/)** (2026) —
   feature film (Boutique Filmes/Globo Filmes, from João Carlos Marinho's 1969
@@ -117,4 +118,5 @@ para as fotografias de referência do solo.
 ## Encontre-me
 
 [mateusalkimim.com](https://mateusalkimim.com) ·
-[LinkedIn](https://www.linkedin.com/in/mateus-alkimim-b93b80223)
+[LinkedIn](https://www.linkedin.com/in/mateus-alkimim-b93b80223) ·
+showreel: [live action](https://vimeo.com/980924367) · [3D](https://vimeo.com/981305381)

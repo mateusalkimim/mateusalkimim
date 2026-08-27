@@ -9,6 +9,8 @@
 **Visual Effects Compositor · Independent researcher, computer vision and
 image geometry · Physics undergraduate** — Montes Claros, Brazil
 
+**Showreel** — [compositing · live action](https://vimeo.com/980924367) · [compositing · 3D](https://vimeo.com/981305381)
+
 I measure images. My work lives on the bridge between VFX production and
 mathematics: compositing that closes shots, pipeline tools that studios adopt,
 and geometry that verifies what the eye believes.
@@ -70,7 +72,8 @@ Montes Claros. Alongside shot work, I build pipeline tooling in production use
 
 Released productions I worked on as a compositor, and the studio each
 delivery went through (titles and studios are public credits; shots and
-breakdowns stay under NDA) — most recent first:
+breakdowns stay under NDA) — most recent first.
+Moving pictures for these: **showreel [live action](https://vimeo.com/980924367) · [3D](https://vimeo.com/981305381)**.
 
 - **[O Gênio do Crime](https://www.imdb.com/title/tt39444949/)** (2026) —
   feature film (Boutique Filmes/Globo Filmes, from João Carlos Marinho's 1969
@@ -140,4 +143,5 @@ for the ground reference photographs.
 ## Find me
 
 [mateusalkimim.com](https://mateusalkimim.com) ·
-[LinkedIn](https://www.linkedin.com/in/mateus-alkimim-b93b80223)
+[LinkedIn](https://www.linkedin.com/in/mateus-alkimim-b93b80223) ·
+showreel: [live action](https://vimeo.com/980924367) · [3D](https://vimeo.com/981305381)

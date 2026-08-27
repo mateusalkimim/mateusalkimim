@@ -34,9 +34,17 @@ and geometry that verifies what the eye believes.
   A gate enforces what the order promises: no symbol spent before an earlier
   instrument declares it, and it runs with a negative control. In Portuguese.
   MIT + CC BY-SA.
-- **[lol-draft-assistant](https://github.com/mateusalkimim/lol-draft-assistant)** —
-  strictly read-only draft & build advisor for League of Legends: local statistics,
-  confidence intervals, no raw data redistribution. MIT.
+- **[abstraction-ladder](https://github.com/mateusalkimim/abstraction-ladder)** —
+  a map of computing that admits only what someone has read
+  ([live](https://mateusalkimim.github.io/abstraction-ladder/)): from the electromagnet
+  to the register machine, **every arrow opens the sentence that supports it**, copied
+  from the book with its chapter. The guarantee is structural — the generator *aborts*
+  if an edge arrives without a citation — and a separate checker verifies each quotation
+  against the source, passage by passage; **it never returns "ok" for want of proof**,
+  and it says 35 of 36, not "all", because one book is not yet on the shelf. Edges are
+  prospected by a local model and then gated: of 48 proposals, 46 cleared the verbatim
+  gate and 34 cleared my judgment, with the 12 discards recorded one by one with the
+  reason. A model may find; it may not assert. In Portuguese. MIT + CC BY-SA.
 - **[geometry-verifies](https://github.com/mateusalkimim/geometry-verifies)** —
   the geometric-metrology toolkit behind my matte painting pipeline:
   single-view metrology (Criminisi, Reid & Zisserman, 2000) verifying

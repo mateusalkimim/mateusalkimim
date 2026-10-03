@@ -37,6 +37,19 @@ Closest to the craft first.
   prospected by a local model and then gated: of 48 proposals, 46 cleared the verbatim
   gate and 34 cleared my judgment, with the 12 discards recorded one by one with the
   reason. A model may find; it may not assert. In Portuguese. MIT + CC BY-SA.
+- **[hello-world-machine](https://github.com/mateusalkimim/hello-world-machine)** —
+  the companion of the ladder, on the other axis: not what each layer is made of, but
+  **what each layer does with one sentence**
+  ([live](https://mateusalkimim.github.io/hello-world-machine/)). "Olá, Mundo!" is
+  followed from the key pressed in the dark to the light that returns it on the screen:
+  eleven steps, one per screen, each with a figure and the passage from Petzold's *Code*
+  that supports it, and the accent that costs a twelfth byte is the whole lesson in
+  miniature. Written for someone who knows nothing: every new word is explained before
+  it appears, and the generator *aborts* if a technical word shows up before the step
+  that explains it, or if a citation is missing. Petzold's machine is emulated twice,
+  in Python and in JavaScript, and a checker proves the two traces identical, cycle by
+  cycle; a second page plays that trace on the drawn board. In Portuguese and English.
+  MIT + CC BY-SA.
 - **[seeing-calculus](https://github.com/mateusalkimim/seeing-calculus)** —
   nine interactive instruments that build, in order, the visual ground of calculus
   ([live](https://mateusalkimim.github.io/seeing-calculus/)): canvas and arithmetic,

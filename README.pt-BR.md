@@ -25,16 +25,20 @@ Primeiro, o que está mais perto do ofício.
   pinturas assistidas por IA contra a verdade no terreno da câmera — medições pré-registradas,
   julgamento cego, recibos para cada afirmação. MIT + CC BY.
 - **[abstraction-ladder](https://github.com/mateusalkimim/abstraction-ladder)** —
-  um mapa da computação que admite apenas o que alguém leu
-  ([ao vivo](https://mateusalkimim.github.io/abstraction-ladder/)): do eletromagneto
-  ao computador de registro, **cada seta abre a sentença que a sustenta**, copiada
-  do livro com seu capítulo. A garantia é estrutural — o gerador *aborta*
-  se uma aresta chega sem citação — e um verificador separado verifica cada citação
-  contra a fonte, passagem por passagem; **nunca retorna "ok" por falta de prova**,
-  e diz 35 de 36, não "todos", porque um livro ainda não está no estante. As arestas
-  são prospectadas por um modelo local e depois liberadas: de 48 propostas, 46 passaram
-  pela liberação de verbatim e 34 passaram pelo meu julgamento, com os 12 descartes
-  registrados um a um com o motivo. Um modelo pode encontrar; não pode afirmar. Em Português.
+  um mapa da computação que admite só o que alguém leu
+  ([no ar](https://mateusalkimim.github.io/abstraction-ladder/)). Toda peça de um
+  computador cabe numa de seis famílias, nomeadas pelo que fazem com o número:
+  transistores ligam e desligam, portas lógicas decidem, somadores fazem conta,
+  registradores guardam número, instruções mandam, e o relógio marca o tempo. Uma
+  família por tela, **escrita para quem não sabe nada**: cada palavra nova é
+  explicada antes de aparecer, uma aposta antes do instrumento e uma pergunta
+  depois. **Cada seta abre a frase que a sustenta**, copiada do livro com o
+  capítulo; o gerador *aborta* se uma aresta vier sem citação, ou se uma palavra
+  técnica aparecer antes da tela que a explica, e uma conferência à parte confere
+  cada citação contra a fonte, **sem nunca devolver "ok" por falta de prova**.
+  Cinco instrumentos, cada um a prova de uma seta: quando o mapa diz que dois
+  relés fazem uma porta, ele liga os dois e monta a tabela-verdade na sua frente.
+  Um modelo pode achar; não pode afirmar. Em português e em inglês.
   MIT + CC BY-SA.
 - **[hello-world-machine](https://github.com/mateusalkimim/hello-world-machine)** —
   o companheiro da escada, no outro eixo: não do que cada camada é feita, mas
@@ -60,7 +64,7 @@ Primeiro, o que está mais perto do ofício.
   antes de um instrumento anterior declará-lo, e ele roda com um controle negativo. Em Português.
   MIT + CC BY-SA.
 - **[math-prerequisite-map](https://github.com/mateusalkimim/math-prerequisite-map)** —
-  um mapa interativo de pré-requisitos de matemática do ensino médio
+  um mapa interativo de pré-requisitos da matemática da graduação
   ([ao vivo](https://mateusalkimim.github.io/math-prerequisite-map/)): 50 disciplinas,
   78 dependências em 13 camadas, e **nenhuma aresta sem garantia** — cada seta declara
   de qual livro veio e em que classe de evidência se baseia. O layout é medido, não desenhado:

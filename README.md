@@ -28,15 +28,19 @@ Closest to the craft first.
   measurements, blind judgment, receipts for every claim. MIT + CC BY.
 - **[abstraction-ladder](https://github.com/mateusalkimim/abstraction-ladder)** —
   a map of computing that admits only what someone has read
-  ([live](https://mateusalkimim.github.io/abstraction-ladder/)): from the electromagnet
-  to the register machine, **every arrow opens the sentence that supports it**, copied
-  from the book with its chapter. The guarantee is structural — the generator *aborts*
-  if an edge arrives without a citation — and a separate checker verifies each quotation
-  against the source, passage by passage; **it never returns "ok" for want of proof**,
-  and it says 35 of 36, not "all", because one book is not yet on the shelf. Edges are
-  prospected by a local model and then gated: of 48 proposals, 46 cleared the verbatim
-  gate and 34 cleared my judgment, with the 12 discards recorded one by one with the
-  reason. A model may find; it may not assert. In Portuguese. MIT + CC BY-SA.
+  ([live](https://mateusalkimim.github.io/abstraction-ladder/)). Every part of a
+  computer falls into one of six families, named by what they do with a number:
+  transistors switch, logic gates decide, adders compute, registers hold a number,
+  instructions command, and the clock keeps time. One family per screen, **written for
+  someone who knows nothing**: every new word is explained before it appears, a bet
+  before the instrument, and a question after it. **Every arrow opens the sentence
+  that supports it**, copied from the book with its chapter; the generator *aborts* if
+  an edge arrives without a citation, or if a technical word shows up before the screen
+  that explains it, and a separate checker verifies each quotation against the source,
+  **never returning "ok" for want of proof**. Five instruments, each the proof of one
+  arrow: when the map says two relays make a gate, it wires them and builds the truth
+  table in front of you. A model may find; it may not assert. In Portuguese and English.
+  MIT + CC BY-SA.
 - **[hello-world-machine](https://github.com/mateusalkimim/hello-world-machine)** —
   the companion of the ladder, on the other axis: not what each layer is made of, but
   **what each layer does with one sentence**

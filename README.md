@@ -27,33 +27,38 @@ Closest to the craft first.
   AI-assisted paintings against camera ground truth — pre-registered
   measurements, blind judgment, receipts for every claim. MIT + CC BY.
 - **[abstraction-ladder](https://github.com/mateusalkimim/abstraction-ladder)** —
-  a map of computing that admits only what someone has read
-  ([live](https://mateusalkimim.github.io/abstraction-ladder/)). Every part of a
-  computer falls into one of six families, named by what they do with a number:
-  transistors switch, logic gates decide, adders compute, registers hold a number,
-  instructions command, and the clock keeps time. One family per screen, **written for
-  someone who knows nothing**: every new word is explained before it appears, a bet
-  before the instrument, and a question after it. **Every arrow opens the sentence
-  that supports it**, copied from the book with its chapter; the generator *aborts* if
-  an edge arrives without a citation, or if a technical word shows up before the screen
-  that explains it, and a separate checker verifies each quotation against the source,
-  **never returning "ok" for want of proof**. Five instruments, each the proof of one
-  arrow: when the map says two relays make a gate, it wires them and builds the truth
-  table in front of you. A model may find; it may not assert. In Portuguese and English.
-  MIT + CC BY-SA.
+  a greeting, "Olá, Mundo!", leaves a person, crosses a machine that only knows
+  whether current is flowing or not, and comes back to the same person in nearly
+  the same shape ([live](https://mateusalkimim.github.io/abstraction-ladder/)). The
+  ladder is everything that must exist in between: six families of circuits, named
+  by what they do with the signal. Transistors switch, logic gates decide, adders
+  compute, registers hold a number, instructions command, and the clock keeps time.
+  Not a page about electricity: current enters once, as the two states the machine
+  tells apart, and from there on the subject is the engineering of the computer.
+  One family per screen, **written for someone who knows nothing**: every new word
+  is explained before it appears, a bet before the instrument, a question after it.
+  **Every arrow opens the sentence that supports it**, copied from the book with its
+  chapter; the generator *aborts* if an edge arrives without a citation, or if a
+  technical word shows up before the screen that explains it, and a separate
+  checker verifies each quotation against the source, **never returning "ok" for
+  want of proof**. Five instruments, each the proof of one arrow. A model may find;
+  it may not assert. In Portuguese and English. MIT + CC BY-SA.
 - **[hello-world-machine](https://github.com/mateusalkimim/hello-world-machine)** —
-  the companion of the ladder, on the other axis: not what each layer is made of, but
-  **what each layer does with one sentence**
-  ([live](https://mateusalkimim.github.io/hello-world-machine/)). "Olá, Mundo!" is
-  followed from the key pressed in the dark to the light that returns it on the screen:
-  eleven steps, one per screen, each with a figure and the passage from Petzold's *Code*
-  that supports it, and the accent that costs a twelfth byte is the whole lesson in
-  miniature. Written for someone who knows nothing: every new word is explained before
-  it appears, and the generator *aborts* if a technical word shows up before the step
-  that explains it, or if a citation is missing. Petzold's machine is emulated twice,
-  in Python and in JavaScript, and a checker proves the two traces identical, cycle by
-  cycle; a second page plays that trace on the drawn board. In Portuguese and English.
-  MIT + CC BY-SA.
+  the companion of the ladder: not what must exist for the round trip, but **the
+  mathematics that makes it possible**
+  ([live](https://mateusalkimim.github.io/hello-world-machine/)). Everything you
+  see, read or hear on a computer went through a circuit that only knows whether
+  current is flowing or not, thousands of times a second. "Olá, Mundo!" is followed
+  on that trip, from the greeting said in the dark to the light that returns it on
+  the screen: eleven steps, one per screen, each with what this part operates on
+  the signal and what it gives back, the mathematics of it, a figure, and the
+  passage from Petzold's *Code* that supports it; the accent that costs a twelfth
+  byte is the whole lesson in miniature. At the bottom, Morse: the current changes,
+  the signal it carries changes at every layer, and at the end is the whole set.
+  Written for someone who knows nothing, with the same gates as the ladder.
+  Petzold's machine is emulated twice, in Python and in JavaScript, a checker proves
+  the two traces identical cycle by cycle, and a second page plays that trace on
+  the drawn board. In Portuguese and English. MIT + CC BY-SA.
 - **[seeing-calculus](https://github.com/mateusalkimim/seeing-calculus)** —
   nine interactive instruments that build, in order, the visual ground of calculus
   ([live](https://mateusalkimim.github.io/seeing-calculus/)): canvas and arithmetic,

@@ -26,28 +26,14 @@ Primeiro, o que está mais perto do ofício.
   julgamento cego, recibos para cada afirmação. MIT + CC BY.
 - **[hello-world-machine](https://github.com/mateusalkimim/hello-world-machine)** —
   uma saudação, "Olá, Mundo!", sai de uma pessoa, atravessa uma máquina que só
-  sabe se há corrente passando ou não, e volta para a mesma pessoa quase na
-  mesma forma ([no ar](https://mateusalkimim.github.io/hello-world-machine/)).
-  Um material só, em quatro partes. **Os degraus** seguem a saudação nessa
-  viagem, da palavra dita no escuro até a luz que a devolve na tela: onze
-  degraus, um por tela, cada um com o que esta parte opera no sinal e o que
-  devolve, a matemática disso, uma figura e a passagem do *Code*, de Petzold,
-  que o sustenta. **A placa** toca a mesma viagem na máquina de Petzold, emulada
-  duas vezes, em Python e em JavaScript, com uma conferência que prova os dois
-  traços idênticos ciclo a ciclo. **A escada** é tudo o que precisa existir no
-  meio: seis famílias de circuitos, nomeadas pelo que fazem com o sinal.
-  Transistores ligam e desligam, portas lógicas decidem, somadores fazem conta,
-  registradores guardam número, instruções mandam, e o relógio marca o tempo.
-  **A bancada** põe essas peças na mão de quem lê: doze missões, de acender uma
-  lâmpada a um número que escolhe o circuito. Não é uma página sobre
-  eletricidade: a corrente entra uma vez, como os dois estados que a máquina
-  distingue, e daí em diante o assunto é a engenharia do computador. No fundo,
-  morse: a corrente muda, o sinal que ela expressa muda a cada camada, e no fim
-  está o conjunto completo. **Escrito para quem não sabe nada**: cada palavra
-  nova é explicada antes de aparecer, e o gerador *aborta* se uma afirmação vier
-  sem a citação ou se uma palavra técnica aparecer antes da tela que a explica.
-  Os degraus e a placa estão em português e em inglês; a escada e a bancada, em
-  português por enquanto. MIT + CC BY-SA.
+  sabe se há corrente passando ou não, e volta quase na mesma forma
+  ([no ar](https://mateusalkimim.github.io/hello-world-machine/)). Quatro partes:
+  onze **degraus** que seguem a saudação pela máquina, cada um sustentado por uma
+  passagem do *Code*, de Petzold; a **placa**, onde a máquina de Petzold roda a
+  viagem ciclo a ciclo; a **escada**, as seis famílias de circuitos que precisam
+  existir no meio; e a **bancada**, doze missões para montá-las com a mão. Escrito
+  para quem não sabe nada. Em português; os degraus e a placa também em inglês.
+  MIT + CC BY-SA.
 - **[seeing-calculus](https://github.com/mateusalkimim/seeing-calculus)** —
   nove instrumentos interativos que, em ordem, constroem o terreno visual do cálculo
   ([ao vivo](https://mateusalkimim.github.io/seeing-calculus/)): tela e álgebra,

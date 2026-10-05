@@ -28,28 +28,14 @@ Closest to the craft first.
   measurements, blind judgment, receipts for every claim. MIT + CC BY.
 - **[hello-world-machine](https://github.com/mateusalkimim/hello-world-machine)** —
   a greeting, "Olá, Mundo!", leaves a person, crosses a machine that only knows
-  whether current is flowing or not, and comes back to the same person in nearly
-  the same shape ([live](https://mateusalkimim.github.io/hello-world-machine/)).
-  One material in four parts. **The steps** follow the greeting on that trip, from
-  the word said in the dark to the light that returns it on the screen: eleven
-  steps, one per screen, each with what this part operates on the signal and what
-  it gives back, the mathematics of it, a figure, and the passage from Petzold's
-  *Code* that supports it. **The board** plays the same trip on Petzold's machine,
-  emulated twice, in Python and in JavaScript, with a checker that proves the two
-  traces identical cycle by cycle. **The ladder** is everything that must exist in
-  between: six families of circuits, named by what they do with the signal.
-  Transistors switch, logic gates decide, adders compute, registers hold a number,
-  instructions command, and the clock keeps time. **The bench** puts those pieces
-  in the reader's hands: twelve missions, from lighting a lamp to a number that
-  chooses the circuit. Not a page about electricity: current enters once, as the
-  two states the machine tells apart, and from there on the subject is the
-  engineering of the computer. At the bottom, Morse: the current changes, the
-  signal it carries changes at every layer, and at the end is the whole set.
-  **Written for someone who knows nothing**: every new word is explained before it
-  appears, and the generator *aborts* if a claim arrives without its citation or a
-  technical word shows up before the screen that explains it. The steps and the
-  board are in Portuguese and English; the ladder and the bench, in Portuguese for
-  now. MIT + CC BY-SA.
+  whether current is flowing or not, and comes back in nearly the same shape
+  ([live](https://mateusalkimim.github.io/hello-world-machine/)). Four parts:
+  eleven **steps** that follow the greeting through the machine, each backed by a
+  passage from Petzold's *Code*; the **board**, where Petzold's machine runs the
+  trip cycle by cycle; the **ladder**, the six families of circuits that must exist
+  in between; and the **bench**, twelve missions to build them by hand. Written for
+  someone who knows nothing. In Portuguese; the steps and the board also in
+  English. MIT + CC BY-SA.
 - **[seeing-calculus](https://github.com/mateusalkimim/seeing-calculus)** —
   nine interactive instruments that build, in order, the visual ground of calculus
   ([live](https://mateusalkimim.github.io/seeing-calculus/)): canvas and arithmetic,

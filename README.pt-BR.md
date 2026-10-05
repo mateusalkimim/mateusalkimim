@@ -24,40 +24,30 @@ Primeiro, o que está mais perto do ofício.
   metrologia de uma única vista (Criminisi, Reid & Zisserman, 2000) verificando
   pinturas assistidas por IA contra a verdade no terreno da câmera — medições pré-registradas,
   julgamento cego, recibos para cada afirmação. MIT + CC BY.
-- **[abstraction-ladder](https://github.com/mateusalkimim/abstraction-ladder)** —
+- **[hello-world-machine](https://github.com/mateusalkimim/hello-world-machine)** —
   uma saudação, "Olá, Mundo!", sai de uma pessoa, atravessa uma máquina que só
   sabe se há corrente passando ou não, e volta para a mesma pessoa quase na
-  mesma forma ([no ar](https://mateusalkimim.github.io/abstraction-ladder/)). A
-  escada é tudo o que precisa existir no meio: seis famílias de circuitos,
-  nomeadas pelo que fazem com o sinal. Transistores ligam e desligam, portas
-  lógicas decidem, somadores fazem conta, registradores guardam número,
-  instruções mandam, e o relógio marca o tempo. Não é uma página sobre
+  mesma forma ([no ar](https://mateusalkimim.github.io/hello-world-machine/)).
+  Um material só, em quatro partes. **Os degraus** seguem a saudação nessa
+  viagem, da palavra dita no escuro até a luz que a devolve na tela: onze
+  degraus, um por tela, cada um com o que esta parte opera no sinal e o que
+  devolve, a matemática disso, uma figura e a passagem do *Code*, de Petzold,
+  que o sustenta. **A placa** toca a mesma viagem na máquina de Petzold, emulada
+  duas vezes, em Python e em JavaScript, com uma conferência que prova os dois
+  traços idênticos ciclo a ciclo. **A escada** é tudo o que precisa existir no
+  meio: seis famílias de circuitos, nomeadas pelo que fazem com o sinal.
+  Transistores ligam e desligam, portas lógicas decidem, somadores fazem conta,
+  registradores guardam número, instruções mandam, e o relógio marca o tempo.
+  **A bancada** põe essas peças na mão de quem lê: doze missões, de acender uma
+  lâmpada a um número que escolhe o circuito. Não é uma página sobre
   eletricidade: a corrente entra uma vez, como os dois estados que a máquina
-  distingue, e daí em diante o assunto é a engenharia do computador. Uma família
-  por tela, **escrita para quem não sabe nada**: cada palavra nova é explicada
-  antes de aparecer, uma aposta antes do instrumento, uma pergunta depois.
-  **Cada seta abre a frase que a sustenta**, copiada do livro com o capítulo; o
-  gerador *aborta* se uma aresta vier sem citação, ou se uma palavra técnica
-  aparecer antes da tela que a explica, e uma conferência à parte confere cada
-  citação contra a fonte, **sem nunca devolver "ok" por falta de prova**. Cinco
-  instrumentos, cada um a prova de uma seta. Um modelo pode achar; não pode
-  afirmar. Em português e em inglês. MIT + CC BY-SA.
-- **[hello-world-machine](https://github.com/mateusalkimim/hello-world-machine)** —
-  o companheiro da escada: não o que precisa existir para a ida e a volta, mas
-  **a matemática que a torna possível**
-  ([no ar](https://mateusalkimim.github.io/hello-world-machine/)). Tudo o que se
-  vê, se lê e se ouve num computador passou por um circuito que só sabe se há
-  corrente passando ou não, milhares de vezes por segundo. "Olá, Mundo!" é
-  seguido nessa viagem, da saudação dita no escuro até a luz que o devolve na
-  tela: onze degraus, um por tela, cada um com o que esta parte opera no sinal e
-  o que devolve, a matemática disso, uma figura e a passagem do *Code*, de
-  Petzold, que o sustenta; o acento que custa um décimo segundo byte é a lição
-  inteira em miniatura. No fundo, morse: a corrente muda, o sinal que ela
-  expressa muda a cada camada, e no fim está o conjunto completo. Escrito para
-  quem não sabe nada, com os mesmos portões da escada. A máquina de Petzold é
-  emulada duas vezes, em Python e em JavaScript, uma conferência prova os dois
-  traços idênticos ciclo a ciclo, e uma segunda página toca esse traço na placa
-  desenhada. Em português e em inglês. MIT + CC BY-SA.
+  distingue, e daí em diante o assunto é a engenharia do computador. No fundo,
+  morse: a corrente muda, o sinal que ela expressa muda a cada camada, e no fim
+  está o conjunto completo. **Escrito para quem não sabe nada**: cada palavra
+  nova é explicada antes de aparecer, e o gerador *aborta* se uma afirmação vier
+  sem a citação ou se uma palavra técnica aparecer antes da tela que a explica.
+  Os degraus e a placa estão em português e em inglês; a escada e a bancada, em
+  português por enquanto. MIT + CC BY-SA.
 - **[seeing-calculus](https://github.com/mateusalkimim/seeing-calculus)** —
   nove instrumentos interativos que, em ordem, constroem o terreno visual do cálculo
   ([ao vivo](https://mateusalkimim.github.io/seeing-calculus/)): tela e álgebra,
